@@ -27,9 +27,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Victor**
 
->- GitHub: [@githubhandle](https://github.com/V0pe)
->- Twitter: [@twitterhandle](https://twitter.com/de_vope)
->- LinkedIn: [LinkedIn](https://linkedin.com/in/arany_de)
+>- GitHub: https://github.com/V0pe)
+>- Twitter: https://twitter.com/de_vope
+>- LinkedIn: https://linkedin.com/in/arany_de)
 
 
 ## 🤝 Contributing
