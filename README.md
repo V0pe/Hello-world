@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Victor**
 
 >- GitHub: [@githubhandle](https://github.com/V0pe)
 >- Twitter: [@twitterhandle](https://twitter.com/de_vope)
